@@ -13,7 +13,7 @@ oliwer = {
     'pronouns': 'he/him/his', 
     'code': ['python', 'javascript', 'css', 'html'],
     'os': ['linux', 'windows'],
-    'editor': ['vs code', 'pycharm']
+    'editor': ['vs code', 'pycharm'],
     'plan to study': ['java', 'lua', 'sql', 'rpa'],
     'languages': ['portuguese', 'english', 'spanish'],
     'hobbies': ['reading', 'video games']

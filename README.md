@@ -1,5 +1,5 @@
 ##  Hi, I'm Oliver <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"></picture>
-***
+
 [![socials](https://img.shields.io/badge/Linkedin-steelblue?logo=linkedin&logoColor=white "socials")](https://www.linkedin.com/in/oliwerb/) [![socials](https://img.shields.io/badge/protonmail-darkslateblue?logo=protonmail&logoColor=white "socials")](mailto:olwrrb@protonmail.com") [![socials](https://img.shields.io/badge/gmail-firebrick?logo=gmail&logoColor=white "socials")](mailto:benites.olivr@gmail.com.com")
 
 
@@ -8,7 +8,7 @@
 
 ### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"></picture> a little bit about me:
 
-```py
+```python
 oliwer = {
     'pronouns': 'he/him/his', 
     'code': ['python', 'javascript', 'css', 'html'],

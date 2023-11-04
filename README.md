@@ -3,7 +3,7 @@
 [![socials](https://img.shields.io/badge/Linkedin-steelblue?logo=linkedin&logoColor=white "socials")](https://www.linkedin.com/in/oliwerb/) [![socials](https://img.shields.io/badge/protonmail-darkslateblue?logo=protonmail&logoColor=white "socials")](mailto:olwrrb@protonmail.com") [![socials](https://img.shields.io/badge/gmail-firebrick?logo=gmail&logoColor=white "socials")](mailto:benites.olivr@gmail.com.com")
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1986AC&center=true&vCenter=true&width=435&lines=Programmer+in+the+making;Open+to+work+and+colaborate;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1986AC&center=true&vCenter=true&width=435&lines=Junior+Dev;Open+to+work+and+collaborate;Always+learning+something+new)](https://git.io/typing-svg)
 
 
 ### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"></picture> a little bit about me:

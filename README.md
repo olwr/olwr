@@ -11,10 +11,10 @@
 ```python
 oliwer = {
     'pronouns': 'he/him/his', 
-    'code': ['python', 'javascript', 'css', 'html'],
+    'code': ['python', 'sql', 'javascript', 'css', 'html', 'java'],
     'os': ['linux', 'windows'],
-    'editor': ['vs code', 'pycharm'],
-    'plan to study': ['java', 'lua', 'sql', 'rpa'],
+    'editor': ['vs code', 'pycharm', 'workbench'],
+    'plan to study': ['flutter', 'lua', 'rpa'],
     'languages': ['portuguese', 'english', 'spanish'],
     'hobbies': ['reading', 'video games']
     }

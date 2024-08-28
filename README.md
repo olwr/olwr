@@ -15,7 +15,7 @@ oliwer = {
     'pronouns': 'he/him/his', 
     'code': ['javascript', 'python', 'sql', 'mongodb', 'css', 'html', 'java'],
     'os': ['windows, linux'],
-    'editor': ['vs code', 'pycharm', 'workbench'],
+    'softwares': ['vs code', 'pycharm', 'workbench', 'postman'],
     'plan to study': ['sass', 'php', 'laravel', 'typescript', 'react', 'angular', 'vue', 'tailwind', 'flutter', 'lua', 'django', 'flask'],
     'languages': ['portuguese', 'english', 'spanish'],
     'hobbies': ['reading', 'video games']

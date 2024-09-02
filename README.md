@@ -1,6 +1,6 @@
 ##  Hi, I'm Oliver <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"></picture>
 
-[![socials](https://img.shields.io/badge/linkedin-oliverbenites-steelblue?style=plastic&logo=linkedin&logoColor=0077B5&labelColor=white "socials")](https://www.linkedin.com/in/oliwerb/) 
+[![socials](https://img.shields.io/badge/linkedin-oliverbenites-steelblue?style=plastic&logo=linkedin&logoColor=0077B5&labelColor=white "socials")](https://www.linkedin.com/in/oliverbenites/) 
 [![contact](https://img.shields.io/badge/protonmail-darkslateblue?style=plastic&logo=protonmail&logoColor=darkslateblue&labelColor=white "socials")](mailto:olwrrb@protonmail.com") 
 [![contact](https://img.shields.io/badge/gmail-firebrick?style=plastic&logo=gmail&logoColor=B22222&labelColor=white "socials")](mailto:benites.olivr@gmail.com.com")
 

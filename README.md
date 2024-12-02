@@ -12,11 +12,11 @@
 
 ```python
 oliwer = {
-    'pronouns': 'he/him/his', 
-    'code': ['javascript', 'python', 'sql', 'mongodb', 'css', 'html', 'java'],
+    'pronouns': 'he/him/his',
+    'code': ['php', 'javascript', 'typescripy', 'html', 'css', 'scss', 'tailwind', 'mysql', 'mariadb', 'mongodb'],
     'os': ['windows, linux'],
     'softwares': ['vs code', 'pycharm', 'workbench', 'postman'],
-    'plan to study': ['sass', 'php', 'laravel', 'typescript', 'react', 'angular', 'vue', 'tailwind', 'flutter', 'lua', 'django', 'flask'],
+    'plan to study': ['symfony', 'vue', 'react native', 'c#', '.net', 'flutter', 'lua', 'python', 'django', 'flask', 'java'],
     'languages': ['portuguese', 'english', 'spanish'],
     'hobbies': ['reading', 'video games']
     }
